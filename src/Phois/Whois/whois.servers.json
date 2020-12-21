@@ -152,8 +152,8 @@
         "Domain not found."
     ],
     "aquarelle": [
-        "whois-aquarelle.nic.fr",
-        "Requested Domain cannot be found"
+        "whois.nic.aquarelle",
+        "not found"
     ],
     "archi": [
         "whois.afilias.net",
@@ -381,7 +381,7 @@
     ],
     "bw": [
         "whois.nic.net.bw",
-        "Domain Status: No Object Found"
+        "not found"
     ],
     "by": [
         "whois.cctld.by",
@@ -1941,7 +1941,7 @@
     ],
     "leclerc": [
         "whois-leclerc.nic.fr",
-        "Requested Domain cannot be found"
+        "not found"
     ],
     "legal": [
         "whois.donuts.co",
@@ -2480,7 +2480,7 @@
         "No match for"
     ],
     "nu": [
-        "whois.nic.nu",
+        "whois.iis.nu",
         "not found"
     ],
     "nx.cn": [
@@ -2953,7 +2953,7 @@
     ],
     "sa": [
         "whois.nic.net.sa",
-        "No Match"
+        "not found"
     ],
     "sa.com": [
         "whois.centralnic.com",
@@ -3044,8 +3044,8 @@
         "is available for registration"
     ],
     "sg": [
-        "whois.nic.net.sg",
-        "Domain Not Found"
+        "whois.sgnic.sg",
+        "not found"
     ],
     "sh": [
         "whois.nic.sh",
@@ -3520,8 +3520,8 @@
         "NOT FOUND"
     ],
     "voting": [
-        "whois.voting.tld-box.at",
-        "% No match"
+        "whois.nic.voting",
+        "not found"
     ],
     "voto": [
         "whois.afilias.net",
